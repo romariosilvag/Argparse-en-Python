@@ -56,7 +56,7 @@ Define cómo se debe interpretar un determinado argumento de línea de comandos.
 
 ### Ejemplo
 
-archivo
+Archivo
 > argparse_example.py
 
     import argparse

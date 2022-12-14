@@ -36,7 +36,6 @@ El método **ArgumentParser.parse_args()** corre el analizador y coloca los dato
 |  required | Indica si un argumento es requerido u opciona |  True o False |
 |  type |  Convierte automáticamente un argumento al tipo dado | int, float, argparse.FileType('w'), o una función invocable|
 
-### Enlaces rápidos para **add_argument()**
 
 ArgumentParser.add_argument(name or flags...[, action][, nargs][, const][, default][, type][, choices][, required][, help][, metavar][, dest])
 
